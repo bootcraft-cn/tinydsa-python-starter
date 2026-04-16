@@ -3,5 +3,7 @@ from tinydsa.dynamic_array import DynamicArray
 from tinydsa.singly_linked_list import SinglyLinkedList
 from tinydsa.doubly_linked_list import DoublyLinkedList
 from tinydsa.array_deque import ArrayDeque
+from tinydsa.stack import Stack
+from tinydsa.queue import Queue
 
-__all__ = ["DynamicArray", "SinglyLinkedList", "DoublyLinkedList", "ArrayDeque"]
+__all__ = ["DynamicArray", "SinglyLinkedList", "DoublyLinkedList", "ArrayDeque", "Stack", "Queue"]
