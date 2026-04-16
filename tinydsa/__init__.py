@@ -5,5 +5,6 @@ from tinydsa.doubly_linked_list import DoublyLinkedList
 from tinydsa.array_deque import ArrayDeque
 from tinydsa.stack import Stack
 from tinydsa.queue import Queue
+from tinydsa.bst import BST
 
-__all__ = ["DynamicArray", "SinglyLinkedList", "DoublyLinkedList", "ArrayDeque", "Stack", "Queue"]
+__all__ = ["DynamicArray", "SinglyLinkedList", "DoublyLinkedList", "ArrayDeque", "Stack", "Queue", "BST"]
