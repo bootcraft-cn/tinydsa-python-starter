@@ -7,7 +7,7 @@ TinyDSA 课程起始代码（Python）——从零手搓经典数据结构与算
 ```
 tinydsa/           # 核心实现（所有数据结构累积在此）
 tests/             # 每个 stage 一个测试 (test_s01 … test_s17)
-bootcraft.yml      # 课程元数据
+tinycs.yml      # 课程元数据
 ```
 
 ## 开始
